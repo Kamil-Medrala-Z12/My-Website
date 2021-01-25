@@ -1,3 +1,0 @@
-Nazwa hosta (serwer) FTP:	kamil-developer.refy.pl
-Użytkownik (login) FTP:	kamil-developer@refy.pl
-
